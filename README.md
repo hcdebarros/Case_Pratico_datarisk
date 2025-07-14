@@ -28,7 +28,7 @@ Foi estimada a probabilidade de um cliente tornar-se **inadimplente** em um conj
 ## 🗄️ Dados
 
 1. **base_cadastral.csv**  
-   1.1 Base contendo informações cadastrais dos clientes. Cada cliente deve ter apenas uma data de cadastro e seus dados não mudam ao longo do tempo. 
+   - Base contendo informações cadastrais dos clientes. Cada cliente deve ter apenas uma data de cadastro e seus dados não mudam ao longo do tempo. 
 
 * ID_CLIENTE: Identificador único do cliente.
 
