@@ -12,10 +12,8 @@ Este repositório contém todo o pipeline de **Exploração**, **Engenharia de F
 - [Engenharia de Features](#engenharia-de-features)  
 - [Modelagem](#modelagem)  
 - [Avaliação de Performance](#avaliação-de-performance)  
-- [Como Usar](#como-usar)  
-- [Estrutura do Projeto](#estrutura-do-projeto)  
 - [Requisitos](#requisitos)  
-- [Licença](#licença)
+
 
 ---
 
@@ -182,4 +180,6 @@ Nesta etapa, medimos como cada modelo se saiu em separar clientes adimplentes de
 
 > **Conclusão:** o **Random Forest** não só obteve a maior AUC, mas também entregou precision e recall excepcionais na classe crítica, tornando-o o modelo ideal para decisões de crédito e priorização de cobranças.
 
+## 📦 Requisitos
 
+- Estão disponíveis em 'Requiriments.txt'.
